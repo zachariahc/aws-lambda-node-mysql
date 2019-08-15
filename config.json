@@ -1,0 +1,8 @@
+{
+    
+        "dbhost" : "pizzadb.cwh4b49amrlw.us-east-1.rds.amazonaws.com",
+        "dbname" : "pizzadb",
+        "dbuser" :"admin",
+        "dbpassword" :"Techtonic11"
+    
+}
